@@ -7,7 +7,7 @@ A pokedex for the first generation pokemon using Swift 4. Pokemon details includ
 
 ## Features
 - Filter search for pokemon by number, name, or type.
-- Suppor for offline mode.
+- Support for offline mode.
 - Support for portrait and landscape mode.
 
 
